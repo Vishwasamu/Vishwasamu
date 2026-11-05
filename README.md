@@ -118,25 +118,7 @@ const vishwa = {
 
 ---
 
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwasamu&bg_color=020617&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=Vishwa's%20Contribution%20Graph&cache_seconds=86400" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<h2 align="center">🏆 GITHUB TROPHIES</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishwasamu&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 <h2 align="center">🥇 ACHIEVEMENTS & EXPERIENCE</h2>
 
