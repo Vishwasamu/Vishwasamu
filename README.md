@@ -81,17 +81,17 @@ const vishwa = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/nolan/96/source-code.png" width="65" alt="Web Dev"/>
+<h1>💻</h1>
 <h3>Web Development</h3>
 <p>Building responsive and scalable web applications using modern frontend and backend technologies.</p>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/nolan/96/smartphone.png" width="65" alt="Mobile Dev"/>
+<h1>📱</h1>
 <h3>Mobile Development</h3>
 <p>Creating modern mobile applications using Flutter and Dart.</p>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/nolan/96/database.png" width="65" alt="Backend"/>
+<h1>🗄️</h1>
 <h3>Backend & Database</h3>
 <p>Developing REST APIs, server-side applications and database solutions.</p>
 </td>
@@ -106,9 +106,9 @@ const vishwa = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwasamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwasamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwasamu&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=ffffff" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwasamu&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=ffffff" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -122,7 +122,7 @@ const vishwa = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwasamu&bg_color=020617&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=Vishwa's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwasamu&bg_color=020617&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=Vishwa's%20Contribution%20Graph&cache_seconds=86400" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -184,6 +184,3 @@ const vishwa = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06b6d4&height=130&section=footer" width="100%" alt="Footer"/>
 ```
-
----
-
