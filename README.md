@@ -100,23 +100,6 @@ const vishwa = {
 
 </div>
 
----
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwasamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwasamu&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=ffffff" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Vishwasamu&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=0891B2&currStreakLabel=22D3EE" alt="GitHub Streak"/>
-
-</div>
-
----
 
 
 
