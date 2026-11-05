@@ -144,4 +144,4 @@ const vishwa = {
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06b6d4&height=130&section=footer" width="100%" alt="Footer"/>
-```
+
