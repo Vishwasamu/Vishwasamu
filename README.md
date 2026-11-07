@@ -65,6 +65,9 @@ const vishwa = {
 ### 🗄️ Database & Cloud
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Database Skills"/>
 
+### 🐳 DevOps & Deployment
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions&theme=dark" alt="DevOps Skills"/>
+
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Tools"/>
 
